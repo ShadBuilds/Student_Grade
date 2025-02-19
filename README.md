@@ -38,11 +38,11 @@ This program takes input for marks in 5 subjects, calculates the percentage, and
    ```
 2. Compile the program using a C compiler (e.g., `gcc`):  
    ```bash
-   gcc grade_calculator.c -o grade_calculator
+   gcc Student-grade.c -o Student-grade
    ```
 3. Run the executable:  
    ```bash
-   ./grade_calculator
+   ./Student-grade
    ```
 4. Follow the prompts to enter your name and marks for 5 subjects.  
 5. View your total marks, percentage, and grade.  
